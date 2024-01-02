@@ -29,3 +29,8 @@ Twitter
 
 
 https://www.youtube.com/@IadmireLoRyu
+
+
+Device
+
+https://www.geartics.com/r3j3st91an
