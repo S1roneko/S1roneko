@@ -1,5 +1,7 @@
 ### 大家好💫💫
 我今年 15 歲，正在玩《我的世界》。
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={TrueMyL}
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 我的生日是9月11日
